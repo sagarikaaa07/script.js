@@ -1,2 +1,2 @@
 console.log("Hello JS");
-var myName = "JavaScript";
+console.log("Pushing to gitHub");
